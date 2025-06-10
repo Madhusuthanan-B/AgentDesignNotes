@@ -88,3 +88,16 @@ But the magic happens in transformers (attention mechanism). wth these technique
 * It is natively multi modal
 
 ![alt text]![alt text](10_gemini_family.png)
+
+
+### ADK
+
+Aim somewhere in middle the sweet spot. 
+
+#### Axis of Agent Building
+
+![alt text](11_flexibility_vs_ease_of_use.png)
+
+* LLM Orchestration
+
+![alt text](12_adk.png)
