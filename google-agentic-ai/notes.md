@@ -56,3 +56,35 @@ But the magic happens in transformers (attention mechanism). wth these technique
 
 ![alt text](6_innovation_confluence.png)
 
+* When technogies come together, they open up doors for new use cases (Ex: Uber)
+
+* The Models, The Tools, The Platform come together, then we got agents.
+
+#### The Models 
+* Radical drop in cost and latency, 
+* Explosion in capability
+* Massive context windows
+* Multi modality
+
+#### The Tools 
+* Long term memory: Vector databases & big query
+* Explosion in capability: Fucntion calling , reasoning & Planning
+* Frameworks
+* 
+
+### The platform
+* Hyperscale infra
+
+### High level architecture
+
+![alt text](7_architecture.png)
+
+![alt text](8_why_google.png)
+
+
+### Gemini
+
+![alt text](9_gemini.png)
+* It is natively multi modal
+
+![alt text]![alt text](10_gemini_family.png)
