@@ -111,5 +111,16 @@ Aim somewhere in middle the sweet spot.
 
 ![alt text](13_vertex.png)
 
+### Vertext AI Agent Engine
+
+![alt text](14_vertex_ai_engine.png)
+
+#### Quality and Evaluation
+* Evaluation tools to measure agent quality
+* Autorater to gaugae agent user sentiment
+* Example store to improve agent performance
+
+
+
 
 
