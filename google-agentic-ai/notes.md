@@ -25,3 +25,12 @@
 
 ![alt text](2_agents.png)
 
+* Thoght space in AI studio comes from reinforcement learning
+
+![alt text](3_agent_value_chain.png)
+
+Agents take knowers and make it to doers. 
+Knowers to doers - This is the value side in startup. This is the value layer. Agents that do things. Not just knowling things.
+
+Do something - Thats how we make money. We make money by competing in doers space. Address the pain points.
+
