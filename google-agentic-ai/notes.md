@@ -101,3 +101,15 @@ Aim somewhere in middle the sweet spot.
 * LLM Orchestration
 
 ![alt text](12_adk.png)
+
+
+### Vertex AI
+* With free tier, we share the data with google
+* This is alternative to OpenAI
+* It is PaaS. It is managed environment. 
+* Can do the same with Iaas route with using GPU holding it for 24 hours, doing inference at our own side etc. But it is very expensive (the IaaS way).
+
+![alt text](13_vertex.png)
+
+
+
