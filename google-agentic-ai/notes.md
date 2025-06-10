@@ -34,3 +34,25 @@ Knowers to doers - This is the value side in startup. This is the value layer. A
 
 Do something - Thats how we make money. We make money by competing in doers space. Address the pain points.
 
+Innovation at every layer of the stack happens at google.
+
+
+### How do we make money? Where is the value?
+
+![alt text](4_where_is_value.png)
+* SaaS Layer (first layer)
+* Human Layer (second layer, where inefficiencies).It makes human layer more efficient. if we save 10% here, we save billions may be. It help people more be more efficient interacting with software. 
+
+### AI Agents - Evolution
+
+![alt text](5_ai_evolution.png)
+
+Model should be grounded in certain bit of truth.
+Semantic compression = vectorization. We lose information. Accuracy / Recall trade off. Cosine similarly is cosine similarity. If we semantically compress, we will lost information. (vectorization).
+
+But the magic happens in transformers (attention mechanism). wth these techniques (RAG, attention mechanism etc), we dont lose informatin in semantic compression.
+
+### Innovation Confluence (The real evolution)
+
+![alt text](6_innovation_confluence.png)
+
