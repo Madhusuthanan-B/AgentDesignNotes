@@ -139,3 +139,12 @@ Tool use is at core of agents.
 Function calling is for grounding. Grounding on some additional facts which came from invoking some additional tools.
 Additional information can be given to model only by tools (the information about outside world).
 So the agent should be able to talk to outside world. Otherwise it gets struck in a snapshot.
+
+
+### AI Agents
+
+![alt text](16_ai_agents.png)
+
+There are many ways to architecting agents. We need to understand the type of job the agent will be doing.
+
+![alt text](17_multi_agent_architecture.png.png)
