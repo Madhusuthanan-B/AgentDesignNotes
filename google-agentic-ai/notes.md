@@ -124,3 +124,18 @@ Aim somewhere in middle the sweet spot.
 
 
 
+## 12/06/2025 - Architecting Intelligent Agents : Building the foundation for success
+
+### What is an LLM
+
+Base model see the world as tokens. Hence LLM API use the term completion.
+
+![alt text](15_what_is_llm.png.png)
+
+Reinforcement training teaches models to use tools.
+Tool use is at core of agents.
+
+### Function Calling
+Function calling is for grounding. Grounding on some additional facts which came from invoking some additional tools.
+Additional information can be given to model only by tools (the information about outside world).
+So the agent should be able to talk to outside world. Otherwise it gets struck in a snapshot.
