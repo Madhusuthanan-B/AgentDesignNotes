@@ -148,3 +148,7 @@ So the agent should be able to talk to outside world. Otherwise it gets struck i
 There are many ways to architecting agents. We need to understand the type of job the agent will be doing.
 
 ![alt text](17_multi_agent_architecture.png.png)
+
+The frameworks like langchain, crewai, 
+
+![alt text](18_agent_high_level.png.png)
