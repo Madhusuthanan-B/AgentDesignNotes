@@ -29,3 +29,24 @@ Hence in HTTP world some messsage types are tough to implement with normal HTTP.
 * logging notifications
 
 ![alt text](different_comms.png)
+
+
+## MCP Message Types Affected
+This HTTP limitation impacts specific MCP communication patterns. The following message types become difficult to implement with plain HTTP:
+
+Server-initiated requests: Create Message requests, List Roots requests
+Notifications: Progress notifications, Logging notifications, Initialized notifications, Cancelled notifications
+
+These are exactly the features that break when you enable the restrictive HTTP settings. Progress bars disappear, logging stops working, and server-initiated sampling requests fail.
+
+## The Streamable HTTP Solution
+
+The streamable HTTP transport does provide a clever solution to work around HTTP's limitations, but it comes with trade-offs. When you're forced to use stateless_http=True or json_response=True, you're essentially telling the transport to operate within HTTP's constraints rather than working around them.
+
+Understanding these limitations helps you make informed decisions about:
+
+* Which transport to use for different deployment scenarios
+* How to design your MCP server to gracefully handle HTTP constraints
+* When to accept reduced functionality for the benefits of remote hosting
+
+The key is knowing that these restrictions exist and planning your MCP server architecture accordingly. If your application heavily relies on server-initiated requests or real-time notifications, you may need to reconsider your transport choice or implement alternative communication patterns.
