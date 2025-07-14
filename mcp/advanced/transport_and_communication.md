@@ -17,6 +17,12 @@ A commonly used transport when developming MCP client or server in the beginning
 2) Initialize Result - Server responds with capabilities
 3) Initialized Notification - Client confirms (no response expected)
 
+## 4 type of communications
+* Initial Request from Client to Server
+* Response from Server to Client
+* Initial Request from server to Client
+* Response from Client to Server
+
 ## Why understanding stdio Matters
 Understanding stdio transport is crucial because it represents the "ideal" case where bidirectional communication is seamless. When we move to other transports like HTTP, we'll encounter limitations where the server cannot always initiate requests to the client. The stdio transport serves as our baseline for understanding what full MCP communication looks like before we tackle the constraints of other transport methods.
 
