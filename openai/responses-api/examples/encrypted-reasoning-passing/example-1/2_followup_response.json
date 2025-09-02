@@ -1,0 +1,85 @@
+{
+    "id": "resp_68b720988da08190935adfaf443f037b07efca4fb3bd4d44",
+    "object": "response",
+    "created_at": 1756831896,
+    "status": "completed",
+    "background": false,
+    "content_filters": null,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "o4-mini",
+    "output": [
+        {
+            "id": "msg_68b72098f4f4819088364f7e1edb477007efca4fb3bd4d44",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "text": "The current temperature in Paris is 20°C. Would you like more details, such as wind conditions or a short-term forecast?"
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": "medium",
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": false,
+    "temperature": 1.0,
+    "text": {
+        "format": {
+            "type": "text"
+        }
+    },
+    "tool_choice": "auto",
+    "tools": [
+        {
+            "type": "function",
+            "description": "Get current temperature for provided coordinates in celsius.",
+            "name": "get_weather",
+            "parameters": {
+                "type": "object",
+                "properties": {
+                    "latitude": {
+                        "type": "number"
+                    },
+                    "longitude": {
+                        "type": "number"
+                    }
+                },
+                "required": [
+                    "latitude",
+                    "longitude"
+                ],
+                "additionalProperties": false
+            },
+            "strict": true
+        }
+    ],
+    "top_p": 1.0,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 276,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 30,
+        "output_tokens_details": {
+            "reasoning_tokens": 0
+        },
+        "total_tokens": 306
+    },
+    "user": null,
+    "metadata": {}
+}
