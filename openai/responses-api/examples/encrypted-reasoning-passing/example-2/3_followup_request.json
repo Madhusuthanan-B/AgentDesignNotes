@@ -1,0 +1,39 @@
+{
+    "include": [
+        "reasoning.encrypted_content"
+    ],
+    "input": [
+        {
+            "role": "user",
+            "content": "I'm thinking of a number between 1 and 100. Can you guess what it is? Give me your reasoning for your guess."
+        },
+        {
+            "id": "rs_68b7240ff64c8190bf1c09c60abd43ec0d9888216684fdef",
+            "type": "reasoning",
+            "encrypted_content": "gAAAAABotyQVoPyvIFaHLqzYA9xcFdG7ymXdEk1L48K6eo2fsBrLZin5SVuaaqyuiqkiU7cEGMh6wZtbZEpEUCX0_BFNtcdQi8iwJ713t52HEBVO3pRbNiBGQFbh4ySHn5QzMd9M9TVtmCERJPoM5IVe5k1kPlyv88h3qgz0FyxFwKzG_mZPtbO3zsF4En75YuidVgwx15jLKAJfVnGyucmQpT0p3erOvJ7zt9nDkx0wQGFcf_7bWK8jz7u0P7pk2YSATXs6ztExpqSgQdXKEQORtnbvMvTP5Akh2-45BeSKM55FxmU-536j7z4f5Cra4tDe5OJeyhPT9-eU7zQtKVzGYuoVWPKqHW28Gam33hlaDw_w94Si43dphH35RcNuQCv_XfHVpJnbwgzbNGxILdcObXpGcWf1B4UlOGp0xU6EVWRmAnaVF-PjAN4ppMRxDHxXNBb3jr2jS_i1psCKLJHjSyE-NwAEkWUtZvVRitmBt15anw1F-wu9KUNxHQ3jAYbUy8kCobfFryqnqpQgcEbOq7bKzNew41BTWjuSmGtzQz8ktFUOtFgQgteI2FqN_TSJXBAqYemoHA_vLy4pi5YNuBRxfhr4rArBefeZKocd1fuQXiR4IYEhi9kW5nQvc1-q3mIKTrRN52YQX-6HxVgWB4Ixhbic_yunab6xkRX49iv7FA91ixA955o9Astd5IuJzrqgIo0cteaxGU4NQRSPmb_Uh-P1yy4PswsmdMs68vpUuqYi3-7gdVvloNMVeYc6y1h6F2EJMgPOwhCiNpoSBog-Fkom43caSQ-fdaAzEeMoLXcANjfuLWXmsm1As0hns_HmnSgVzN9jbm2aZWSrHV0uB3_ehUOZbuaiLmfV5V6GaDKExOgz8LN42_0Oe7vPsdsJiObDZXL8WkDr8NyQws_KUkI4rl-ys38FhW7ZeN1XuhttApYu1h9PIAfGaDU7NKBNTZ_6n7hDQKGpJK9QnamhoUNhdKWIlOQXmBhgI2rKwqCTgWvohqTH-8l2zvZpY6aXini4giOqbwtURlyqHkOWPgwk9K23QqaFF492UtQ9yiclyPvVZYDyUXK2ww1LlTmGoifsstGfuFRjCw-OSxgGIgLqn9obcTamVEvWwPZL-pDeU5_n7PLbwzdO9lH5mkoV8aaxCurq9u6IrgmRkYqiPJUlwrt-0naPzuy1nisar9fwCrkjY9DgXYH91UceOuO_g7crDNC2hEcO1l_QAhNk-JMZaqfeVg8e6rgaJmy8D9Bx-bB5F6aHTgPnUNddyQhtOSDez-ImvgzC1jDKHwPlXim8Hq7ZWXemqgCX8UNIA7y9X7mV4HqTdVaqZh7shVj23tu53DbYlpOYTNkhG3W1hvmuztXFB8YJ9gXqoxvfa3NclcAUVheq4ZRcqoIN0Xut3LZ9pLvsW4RxFAdS3rWF3cN4Hx1HpVVolHIOjlgfYGWKBlt4YxWQHVvymktIuDiFTt0wQPrHKno2BHGjbe5_zLWzdg-SzGQrxTWiKolvRTjbsVk3bxLfbUfpB6DkLa3lfEv8W-D6xL_Guy8W6hrFspMkaH6STeV8Wao8Qi5vVuSbtykPFy4s9j6YHN-_D0MVh4H5kbJuFhCuP2D6rdtG0MtpxQoj7txBmLPlBhZiY0N0QwSIPHCwP3QTf1VAGDujIanXTU3imnJVsTx-0ROqq-vxUQTZHG-8GpAI0-eAJ8bu_COG5oEm607YBaeFRA943BKTpQZVVIhu1qqlfKAqoLtYhCXrYhnkU0Ns5N8DJIXQpdunbP1lL8QJF5Ij1tC3Z6pYwUDTGunTPFxNRA7WJ47hXXkF1krnPxkSQKnGolFG6XuxVkZX1BlRTgv9N9U5ZDP7hv9rqskwIUKWL8ZfJA5skjH43ls4aPEaS4uEbufnOTBH0IfnEwpvgh4tHccSWMocncEyaojwgol430NqBFDLzGCW-0o_OYwYageyXQAjI_6o3e8BoGC3Yjsf5p3oVRMWFcQjQRTSvTCyrcpqzHb0B2iYsO9A3BfbpcFAsUkKvD0UjrzK3i5T4dMunjBidKwEDOvd7CirXu9YKc3rqW_Qx7nCo65Eg9gUUqfGoT5MwSc3DiLe9T4GJzImXgzJSGZpKL6hK0UWUG8QiYYWlLG_O7ftBd2yesfNnWPR72DFEIX2_tfxC4A4XKcQdQzsQKIzTihc2n12BzKkVRg7udN4JD4hLj-eyL9tRyayCXchV21d3H0ES4-StHyZWMwIaq6-ddbi2NZcM2vtonv7r7YEbVXouq4VQklpCvaPJvJXpmwBJ33Q6NAMOzvSlwzojbmK8skneCd4RNpWyoOFamdO_pwbNloKIfLlNtuI0WWhOA3UO_0cJi-HhEYSnvZA2F3XLHQZB6kBn_5VUwUNNB2k3DBWQNnbgpbNHGfZzfNM5ndJhFkOp-WGxClSFi7XRmPJ",
+            "summary": []
+        },
+        {
+            "id": "msg_68b72413648881908057e764caecfa570d9888216684fdef",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "text": "I'll guess 50.\n\nReasoning:  \n• With no prior hints, the midpoint of 1–100 (which is 50) is the best first move in a classic 'guess the number' strategy.  \n• If your number is higher, you'll tell me 'higher' and I'll know it lies in 51–100 (50 numbers).  \n• If your number is lower, you'll say 'lower' and I'll know it lies in 1–49 (49 numbers).  \n\nStarting at 50 maximizes the information gained from your next hint."
+                }
+            ],
+            "role": "assistant"
+        },
+        {
+            "role": "user",
+            "content": "That's not correct. The number is higher than 50. Also, here's an additional hint: the number is divisible by 7. Can you guess again using both your previous reasoning and this new information?"
+        }
+    ],
+    "model": "o4-mini",
+    "store": false,
+    "reasoning": {
+        "effort": "medium"
+    }
+}

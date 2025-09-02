@@ -1,0 +1,68 @@
+{
+    "id": "resp_68b7255df1d4819089b152d84a5d7a210d9888216684fdef",
+    "object": "response",
+    "created_at": 1756833118,
+    "status": "completed",
+    "background": false,
+    "content_filters": null,
+    "error": null,
+    "incomplete_details": null,
+    "instructions": null,
+    "max_output_tokens": null,
+    "max_tool_calls": null,
+    "model": "o4-mini",
+    "output": [
+        {
+            "id": "rs_68b7255e9740819081b260ab08916fc30d9888216684fdef",
+            "type": "reasoning",
+            "encrypted_content": "gAAAAABotyVndhVwdIOmrlfnCmJ6IobOyvKeyIzDhSG3EbC9G67qS_yoRZOxs102um4IFim1y5oQe05FXjrjLmKM1yyzJ-BbfPp2XeZBv-_pGv2OzNA1AEPtF4ye5DL3JHSNGUet0eA3twDywW0_iNqOK4irln6Vj79CUTvSPCfXna9J0rQ-8CyA-6D6Mxaq8AzlMznaHV4tL4B2fv7B_6ghnNLIGmN-yn1VZVQ--BOtshejfc19nt5GQp6CcWna7tGXByL-yM_4lvd4uc_wbpueBvRA7c5--Nr5uu5r4scL0BbdT596gaT3sRnN9G93pG5gGcBEs7MIifhYx9gtcTinxFq1LZivxuBH_cdlw4GSeUBNGu3R0It5X7CuJ0bCQonqgkrEYOo-ygDu1g1JeWIp9z4ChJY31Dl0ef6kgNWgwg7uD4mPEnr_AAKUp63-FN1LkTeQfasdnqT-RTRDA1TxYeU-vJQyhRJ0UnM6wGsV5HqjwTYqtc-n20OypGargJ6QzcZSS91trXaqdswttfOvc4-sx8bTlRbN4JNuAASX7FmN74akHt2Jr_81Y-hAKkepKh0qRTVrfMOG1AkGR5yHkatAXvSwRXik_Gt0DVAMNgJqPyXClyvC-E0SKQpixhJbfOenRF3Axs5adKsfqTniix26QucuZ2JM4d0LU89LjWz3qm2_kGTNoDq0yOc0QO4K6--LMuu1m-PjdL443wEgxqZfpeJhf82rNfvIimbSEy8q40HSEAqsOKfP9KEUo0wBjjNQkCrKkyDOgSg4U3huB5Q_FXP9jwSO9MqoknlEt0gp2Q4mKKmmd649koer54Lc_oJ8_Bi4wyDh-xS-fKjNhE1LHJ5sfKcqF0_gBZEbth2tXwPPFWDZ2hx7qF_8aDCduH-jXAGoThJ1Quos_zZ1czasqcyLdwj94OpCyS5f-k9DM2f5PCQEfiAh-cCmCrdJTisGQl3QiEOlVCMINlUmuxzkmwF1hx6-scArQgD-uX-z8Y4uxTrfkhXdS-D12tP5xdHpWrshGSxvWIeKVTn7f9Ne26oiK0LnV1gk9RUcSSbx4L6PqbmkROuXaUF1MyEDsxrc7W17KKwZeZQ_myn-CIn3-37EA1beAOmIckt3DQprbhUU-2TrGezGGcTwIHBiSjD07m_rQzZ7Gv1PPKQkFDABj1dgGHqcVkc0TimD46OvWWuM7NJa72aPFG0fV5wa-UW-hzZpWOPqs0To3l000znEdi-63kB5k9kj32Ww_2QLgBwvV9NAkVWVk_a4G0UUDiAwDDjN4ehOVArMFSNGfdXscxIzk2sv52iPytON881TYYPvgViZm2f9zXxkF9NwMuSPGMME28k7i9hSSqWnWKvs9-jMrY-cwScMVM6zyCbcH10a_sSCQAGJYQ95Rv-qFRZbSdxdBwdUViCtCLOcOjloFnKh8m1SENThFlTdjhxNlFGUDsNEZw-78LgNAD6MoOGQa5CUr0ivN95HFAuw7Vuzs1B3pXyzR1y-2fgGrO2E3fQZJy_vG5Q8kMNnSPtID89Viiij4aWKYuQZFe79HY17cq7T_3Qhr7Kk2AsqZU8vKfHOTEydt-gWcfwOJzS531SN-hrxoLwZTiWws_g7mPmzeXyD5vWxhh3QnWOQ2ch3FbMFUnkHtzgASvGTpsOprueB9neUYokOCbV0QuLRRduRyg20SOX5w60fBqtwsXIc3SzeBnxmCZWgFj7aEumuVQebYISI-rSx389kZS1foJIoz3W8cqSrQzZunGNLQzL2_5kQW_GyQdKYQRw4BCMSMOTfgSzaWSX0hGhtJZoqAe73awoZdR4X8at2USosQ5quajeMhe8h6KTqzrWViBjjl15PHiXk2d9boOc9C9ChAcFJ04r5TcNlW5stK6fG4ZC4Q1NAR2F_Tm4-AkR_6g2eRU3wPcTcPGRywwGJtjO9NODJTzt5XA==",
+            "summary": []
+        },
+        {
+            "id": "msg_68b72564fda08190abf76c307ac4e6e80d9888216684fdef",
+            "type": "message",
+            "status": "completed",
+            "content": [
+                {
+                    "type": "output_text",
+                    "annotations": [],
+                    "text": "I’ve narrowed the possibilities to the multiples of 7 between 51 and 100:\n\n56, 63, 70, 77, 84, 91, 98\n\nTo split these seven candidates as evenly as possible, I’ll pick the middle one: 77.  \nThis way, if it’s not 77 and you tell me “higher” or “lower,” I’ll immediately cut the list down to three numbers on one side.  \n\nMy next guess is 77."
+                }
+            ],
+            "role": "assistant"
+        }
+    ],
+    "parallel_tool_calls": true,
+    "previous_response_id": null,
+    "prompt_cache_key": null,
+    "reasoning": {
+        "effort": "medium",
+        "summary": null
+    },
+    "safety_identifier": null,
+    "service_tier": "default",
+    "store": false,
+    "temperature": 1.0,
+    "text": {
+        "format": {
+            "type": "text"
+        }
+    },
+    "tool_choice": "auto",
+    "tools": [],
+    "top_p": 1.0,
+    "truncation": "disabled",
+    "usage": {
+        "input_tokens": 197,
+        "input_tokens_details": {
+            "cached_tokens": 0
+        },
+        "output_tokens": 299,
+        "output_tokens_details": {
+            "reasoning_tokens": 192
+        },
+        "total_tokens": 496
+    },
+    "user": null,
+    "metadata": {}
+}
