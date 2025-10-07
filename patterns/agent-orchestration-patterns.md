@@ -161,4 +161,7 @@ It’s like managing a team:
 
 > **Note:** Pick your pattern wisely — the right orchestration makes your AI system scalable, explainable, and reliable.
 
-Would you like me to format this markdown version into a GitHub-ready README.md style file with emojis, headings, and callout boxes (e.g., “> Note” / “> Warning”) for a developer audience?
+
+## 📚 Sources
+
+- [Microsoft Learn: AI Agent Design Patterns](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/ai-agent-design-patterns)
